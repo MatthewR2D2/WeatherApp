@@ -1,5 +1,14 @@
 # WeatherApp
-This app is a simple build on a python weather application. 
+This app is a simple build on a python weather application. <br>
+Work in progress<br>
+`### TODO
+
+- [ ] Interactive Mapping function (Advanced Mapping class)
+- [ ] Satellite Imagery of weather (Advanced Mapping Class)
+- [ ] Build out Advanced Weather Processor class
+- [ ] Create Mobile version
+- [ ] Introduce Flask for web apps
+
 ## Current Componets are
 ### Basic Weather Bot
 This is a base class for generating weather data on a certain city
