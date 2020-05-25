@@ -1,8 +1,7 @@
 # WeatherApp
 This app is a simple build on a python weather application. <br>
 Work in progress<br>
-`### TODO
-
+TODO
 - [ ] Interactive Mapping function (Advanced Mapping class)
 - [ ] Satellite Imagery of weather (Advanced Mapping Class)
 - [ ] Build out Advanced Weather Processor class
